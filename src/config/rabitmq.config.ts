@@ -6,5 +6,6 @@ export default {
       queues: {
         instructorQueue: "instructor_queue",
       },
+      heartbeat : 10
     },
   };
